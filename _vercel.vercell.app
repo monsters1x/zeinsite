@@ -1,1 +1,1 @@
-vc-domain-verify=zeindev.vercell.app,a4fc310f53032326b9c8
+vc-domain-verify=www.zeindv.vercell.app,1668c070402ef93e0a65
